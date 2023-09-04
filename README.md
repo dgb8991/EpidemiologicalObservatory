@@ -1,8 +1,8 @@
 ## Epidemiological Observatory Web App
 ### Welcome to the Epidemiological Observatory Web App repository! This project brings together the power of Django, Firebase, and Artificial Intelligence to create a dynamic web application designed to serve as an Epidemiological Observatory. Whether you are a public health expert, a developer, or simply interested in tracking disease data, you're in the right place.
-
+#
 ## Overview
-###This repository hosts a robust web application built using the Django framework, powered by Firebase as the database, and enriched with Artificial Intelligence for data prediction. The primary objective of this project is to provide an efficient and user-friendly platform for monitoring and analyzing disease data. Here's an overview of what you can expect:
+### This repository hosts a robust web application built using the Django framework, powered by Firebase as the database, and enriched with Artificial Intelligence for data prediction. The primary objective of this project is to provide an efficient and user-friendly platform for monitoring and analyzing disease data. Here's an overview of what you can expect:
 #
 ### Django Web Framework: We've harnessed the capabilities of Django, a versatile Python web framework, to create the core of our web application. Django's reliability and scalability make it an ideal choice for building secure and feature-rich web applications.
 #

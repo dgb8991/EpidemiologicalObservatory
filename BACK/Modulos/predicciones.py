@@ -5,7 +5,7 @@ import pyrebase
 
 def predecir(enfermedad):
     config = {
-        "apiKey": "AIzaSyApRDFW_LWlmChdsxpvDO7sRkR8Z7O6Bvc",
+        "apiKey": "",
         "authDomain": "observatorio-4444b.firebaseapp.com",
         "databaseURL": "https://observatorio-4444b-default-rtdb.firebaseio.com",
         "storageBucket": "observatorio-4444b.appspot.com",
